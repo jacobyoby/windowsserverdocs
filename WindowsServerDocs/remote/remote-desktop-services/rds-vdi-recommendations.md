@@ -494,7 +494,7 @@ In the left pane of Local Group Policy Editor, click **User Configuration**. Usi
 ||Do not add shares of recently opened documents to Network Locations|Enabled|
 |In the **Desktop** folder, open **Active Directory**|||
 ||Maximum size of Active Directory searches|Enabled, then in the **Options** area, use the spinbox to set **Number of objects returned** to *5000*.|
-|**Start Manu and Taskbar**|||
+|**Start Menu and Taskbar**|||
 ||Clear the recent programs list for new users|		Enabled|
 ||Do not display or track items in Jump Lists from remote locations|		Enabled|
 ||Turn off feature advertisement balloon notifications|		Enabled|
